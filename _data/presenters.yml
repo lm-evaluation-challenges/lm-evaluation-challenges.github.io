@@ -1,15 +1,10 @@
-efirst:
-  name: "Emily First"
-  url: "https://people.cs.umass.edu/~efirst/"
-  affiliation: "UCSD"
-  img: "efirst.jpg"
-ajiang:
-  name: "Albert Q. Jiang"
-  url: "https://albertqjiang.github.io/"
-  affiliation: "Cambridge"
-  img: "ajiang.jpg"
-kyang:
-  name: "Kaiyu Yang"
-  url: "https://yangky11.github.io/"
-  affiliation: "Caltech"
-  img: "kyang.jpg"
+lintang:
+  name: "Lintang Sutawika"
+  url: "https://sutawika.notion.site/Lintang-Sutawika-cac56baca23f406791e4e0f167afa824"
+  affiliation: "EleutherAI"
+  img: ""
+hailey:
+  name: "Hailey Schoelkopf"
+  url: "TODO"
+  affiliation: "EleutherAI"
+  img: ""
