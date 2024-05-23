@@ -7,11 +7,11 @@
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Tutorial on Machine Learning for Theorem Proving @ NeurIPS 2023
+title: Tutorial on Challenges in Language Model Evaluation @ ICML 2024
 
 
 # Short description of your site
-description: Tutorial on Machine Learning for Theorem Proving @ NeurIPS 2023
+description: Tutorial on Challenges in Language Model Evaluation @ ICML 2024
 
 # --- Navigation bar options --- #
 
@@ -44,7 +44,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: Emily First, Albert Jiang, Kaiyu Yang
+author: Sutawika, Lintang and Schoelkopf, Hailey
 
 
 # How to display the link to the website in the footer
@@ -107,7 +107,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: ""
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
