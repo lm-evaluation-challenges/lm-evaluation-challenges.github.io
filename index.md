@@ -2,8 +2,9 @@
 layout: page
 title: Challenges in Language Model Evaluations
 ---
-
-<link rel="icon" href="/img/ICML-logo.svg">
+<head>
+  <link rel="icon" type="image/svg+xml" href="./img/ICML-logo.svg">
+</head>
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   <a target="_blank" href="https://icml.cc/virtual/2024/tutorial/35227"><strong>Video Recording</strong></a>
   <br>
@@ -84,7 +85,7 @@ Slides will be posted after the tutorial.
 
 ## Relevant Papers
 
-The material in this presentation is loosely modeled off of [Lessons From the Trenches on Reproducible Evaluation of Language Models (Biderman, Schoelkopf, Sutawika et al. 2024)](arxiv.org/pdf/????.????). We recommend reviewing this paper
+The material in this presentation is loosely modeled off of [Lessons From the Trenches on Reproducible Evaluation of Language Models (Biderman, Schoelkopf, Sutawika et al. 2024)](arxiv.org/pdf/????.????). We recommend reviewing this paper if interested in learning more about this area for a number of other references.
 
 ## Code
 
