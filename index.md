@@ -83,6 +83,16 @@ In this tutorial, we aim to bring attendees up to speed on the state of language
 
 Slides will be posted after the tutorial.
 
+## Relevant Papers
+
+The material in this presentation is loosely modeled off of [Lessons From the Trenches on Reproducible Evaluation of Language Models (Biderman, Schoelkopf, Sutawika et al. 2024)](arxiv.org/pdf/????.????). We recommend reviewing this paper
+
+## Code
+
+[Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) is a library for prompted zero- and few-shot language model evaluations built around incorporating and mitigating a number of the challenges we discuss in this tutorial.
+
+
+
 # Citation
 
 <p>If you find this tutorial useful, please cite:</p>
@@ -100,6 +110,8 @@ Slides will be posted after the tutorial.
 
 # Contact
 
-contact hailey, lintang AT eleuther DOT ai for questions via email. 
+{hailey, lintang}@eleuther.ai
+
+# Acknowledgements
 
 This site is modeled after [https://machine-learning-for-theorem-proving.github.io/](https://machine-learning-for-theorem-proving.github.io/).
