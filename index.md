@@ -7,6 +7,7 @@ title: Challenges in Language Model Evaluations
 </head>
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   <a target="_blank" href="https://icml.cc/virtual/2024/tutorial/35227"><strong>Video Recording</strong></a>
+  <strong>July 22, 2024 3:30-5:30pm GMT+2</strong>
 </div>
 
 
@@ -17,7 +18,11 @@ title: Challenges in Language Model Evaluations
 
 # Overview
 
-TODO
+NLP and Machine Learning rely on benchmarks and evaluation to accurately track progress in the field and assess the efficacy of new models and methodologies. For this reason, good evaluation practices and accurate reporting are crucial. 
+
+However, language models not only inherit the challenges previously faced in benchmarking, but also introduce a slew of novel considerations which can make proper comparison across models difficult, misleading, or near-impossible. 
+
+In this tutorial, we aim to bring attendees up to speed on the state of language model evaluation, and highlight current challenges in evaluating language model performance through discussing the various methods of evaluation, tasks and benchmarks commonly associated with evaluating progress in language model research. We will then discuss how these common pitfalls can be addressed and what considerations should be taken to enhance future work. 
 
 <hr>
 
@@ -75,7 +80,7 @@ TODO
 
 # Materials
 
-TODO
+Slides will be posted after the tutorial.
 
 # Citation
 
@@ -92,6 +97,8 @@ TODO
 </div>
 <hr>
 
-Contact: hailey, lintang AT eleuther DOT ai 
+# Contact
+
+contact hailey, lintang AT eleuther DOT ai for questions via email. 
 
 This site is modeled after [https://machine-learning-for-theorem-proving.github.io/](https://machine-learning-for-theorem-proving.github.io/).
