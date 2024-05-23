@@ -1,15 +1,15 @@
 ---
 layout: page
-title: NeurIPS Tutorial on Machine Learning for Theorem Proving
+title: Challenges in Language Model Evaluations
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  <a target="_blank" href="https://neurips.cc/virtual/2023/tutorial/73946"><strong>Video Recording</strong></a>
+  <a target="_blank" href="https://icml.cc/virtual/2024/tutorial/35227"><strong>Video Recording</strong></a>
 </div>
 
 
 
 <div class="sharethis-inline-share-buttons"></div>
-<meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
+<meta name="thumbnail" content="./img/ICML-logo.svg" />
 
 
 # Overview
