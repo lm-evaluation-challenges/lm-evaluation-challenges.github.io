@@ -7,7 +7,7 @@ title: Challenges in Language Model Evaluations
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   <a target="_blank" href="https://icml.cc/virtual/2024/tutorial/35227"><strong>Video Recording</strong></a>
   <br>
-  <strong>July 22, 2024 3:30-5:30pm GMT+2</strong>
+  <strong>July 22, 2024<br>3:30-5:30pm GMT+2</strong>
 </div>
 
 
