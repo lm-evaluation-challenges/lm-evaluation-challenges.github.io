@@ -129,8 +129,10 @@ The material in this presentation is loosely modeled off of [Lessons From the Tr
   title = {{ICML} Tutorial on Challenges in Language Model Evaluations},
   year = {2024},
   howpublished = {\url{https://lm-evaluation-challenges.github.io}},
-  
-  @misc{biderman2024lessons,
+}
+
+
+@misc{biderman2024lessons,
       title={Lessons from the Trenches on Reproducible Evaluation of Language Models}, 
       author={Stella Biderman and Hailey Schoelkopf and Lintang Sutawika and Leo Gao and Jonathan Tow and Baber Abbasi and Alham Fikri Aji and Pawan Sasanka Ammanamanchi and Sidney Black and Jordan Clive and Anthony DiPofi and Julen Etxaniz and Benjamin Fattori and Jessica Zosa Forde and Charles Foster and Mimansa Jaiswal and Wilson Y. Lee and Haonan Li and Charles Lovering and Niklas Muennighoff and Ellie Pavlick and Jason Phang and Aviya Skowron and Samson Tan and Xiangru Tang and Kevin A. Wang and Genta Indra Winata and François Yvon and Andy Zou},
       year={2024},
@@ -138,6 +140,7 @@ The material in this presentation is loosely modeled off of [Lessons From the Tr
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+
 @misc{eval-harness,
   author       = {Gao, Leo and Tow, Jonathan and Abbasi, Baber and Biderman, Stella and Black, Sid and DiPofi, Anthony and Foster, Charles and Golding, Laurence and Hsu, Jeffrey and Le Noac'h, Alain and Li, Haonan and McDonell, Kyle and Muennighoff, Niklas and Ociepa, Chris and Phang, Jason and Reynolds, Laria and Schoelkopf, Hailey and Skowron, Aviya and Sutawika, Lintang and Tang, Eric and Thite, Anish and Wang, Ben and Wang, Kevin and Zou, Andy},
   title        = {A framework for few-shot language model evaluation},
@@ -148,7 +151,7 @@ The material in this presentation is loosely modeled off of [Lessons From the Tr
   doi          = {10.5281/zenodo.10256836},
   url          = {https://zenodo.org/records/10256836}
 }
-}</code></pre>
+</code></pre>
 {% endraw %}
 </div>
 <hr>
