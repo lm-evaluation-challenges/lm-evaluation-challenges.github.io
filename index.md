@@ -19,22 +19,17 @@ title: Challenges in Language Model Evaluations
 
 # Overview
 
-<div style="text-align: justify;">
 NLP and Machine Learning rely on benchmarks and evaluation to accurately track progress in the field and assess the efficacy of new models and methodologies. For this reason, good evaluation practices and accurate reporting are crucial. 
 
-<br>
 However, language models (LMs) not only inherit the challenges previously faced in benchmarking, but also introduce a slew of novel considerations which can make proper comparison across models difficult, misleading, or near-impossible. 
 
-<br>
-In this tutorial, we aim to bring attendees up to speed on the state of language model evaluation, and highlight current challenges in evaluating language model performance through discussing the various methods of evaluation, tasks and benchmarks commonly associated with evaluating progress in language model research. We will then discuss how these common pitfalls can be addressed and what considerations should be taken to enhance future work. test
-</div>
+In this tutorial, we aim to bring attendees up to speed on the state of language model evaluation, and highlight current challenges in evaluating language model performance through discussing the various methods of evaluation, tasks and benchmarks commonly associated with evaluating progress in language model research. We will then discuss how these common pitfalls can be addressed and what considerations should be taken to enhance future work. 
+
 <hr>
 
 
 # Presenters
-These are the presenters
-<div class="container" style="margin-top: 25px;margin-bottom: 25px;">
-  <div align="center">
+<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   <div class="row">
     {% for p in site.data.presenters %}
     {% if forloop.index<=4 %}
@@ -43,16 +38,14 @@ These are the presenters
     {% endif %}
     {% endfor %}
   </div>
-  </div>
-      
-<!--   <div class="row">
+  <div class="row">
     {% for p in site.data.presenters %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% if forloop.index>4 and forloop.index<=7%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
-  </div> -->
+  </div>
 </div>
 <hr>
 
@@ -131,23 +124,28 @@ The material in this presentation is loosely modeled off of [Lessons From the Tr
 <p>If you find this tutorial useful, please consider citing the following works:</p>
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
 {% raw %}
-<pre><code>@misc{sutawika2024challenges,
+<pre><code>
+@misc{sutawika2024challenges,
   author = {Sutawika, Lintang and Schoelkopf, Hailey},
   title = {{ICML} Tutorial on Challenges in Language Model Evaluations},
   year = {2024},
   howpublished = {\url{https://lm-evaluation-challenges.github.io}},
-}</code></pre>
+}
+</code></pre>
 
-<pre><code>@misc{biderman2024lessons,
+<pre><code>
+@misc{biderman2024lessons,
       title={Lessons from the Trenches on Reproducible Evaluation of Language Models}, 
       author={Stella Biderman and Hailey Schoelkopf and Lintang Sutawika and Leo Gao and Jonathan Tow and Baber Abbasi and Alham Fikri Aji and Pawan Sasanka Ammanamanchi and Sidney Black and Jordan Clive and Anthony DiPofi and Julen Etxaniz and Benjamin Fattori and Jessica Zosa Forde and Charles Foster and Mimansa Jaiswal and Wilson Y. Lee and Haonan Li and Charles Lovering and Niklas Muennighoff and Ellie Pavlick and Jason Phang and Aviya Skowron and Samson Tan and Xiangru Tang and Kevin A. Wang and Genta Indra Winata and François Yvon and Andy Zou},
       year={2024},
       eprint={2405.14782},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
-}</code></pre>
+}
+</code></pre>
 
-<pre><code>@misc{eval-harness,
+<pre><code>
+@misc{eval-harness,
   author       = {Gao, Leo and Tow, Jonathan and Abbasi, Baber and Biderman, Stella and Black, Sid and DiPofi, Anthony and Foster, Charles and Golding, Laurence and Hsu, Jeffrey and Le Noac'h, Alain and Li, Haonan and McDonell, Kyle and Muennighoff, Niklas and Ociepa, Chris and Phang, Jason and Reynolds, Laria and Schoelkopf, Hailey and Skowron, Aviya and Sutawika, Lintang and Tang, Eric and Thite, Anish and Wang, Ben and Wang, Kevin and Zou, Andy},
   title        = {A framework for few-shot language model evaluation},
   month        = 12,
@@ -156,7 +154,8 @@ The material in this presentation is loosely modeled off of [Lessons From the Tr
   version      = {v0.4.0},
   doi          = {10.5281/zenodo.10256836},
   url          = {https://zenodo.org/records/10256836}
-}</code></pre>
+}
+</code></pre>
 {% endraw %}
 </div>
 <hr>
