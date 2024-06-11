@@ -32,8 +32,8 @@ In this tutorial, we aim to bring attendees up to speed on the state of language
 
 
 # Presenters
-<div align="center" class="container" style="margin-top: 25px;margin-bottom: 25px;">
-  <div class="row">
+<div class="container" style="margin-top: 25px;margin-bottom: 25px;">
+  <div class="row" align="center">
     {% for p in site.data.presenters %}
     {% if forloop.index<=4 %}
     {% capture id %}{{ p[0] }}{% endcapture %}
