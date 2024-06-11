@@ -32,6 +32,7 @@ In this tutorial, we aim to bring attendees up to speed on the state of language
 
 
 # Presenters
+<div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
 <div class="container" style="margin-top: 25px;margin-bottom: 25px;">
   <div class="row" align="center">
     {% for p in site.data.presenters %}
@@ -49,6 +50,7 @@ In this tutorial, we aim to bring attendees up to speed on the state of language
     {% endif %}
     {% endfor %}
   </div> -->
+</div>
 </div>
 <hr>
 
