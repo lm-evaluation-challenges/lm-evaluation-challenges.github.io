@@ -28,9 +28,8 @@ In this tutorial, we aim to bring attendees up to speed on the state of language
 <hr>
 
 # Presenters
+<div class="container" style="margin: auto">
 <!-- <div class="container" style="margin-top: 25px;margin-bottom: 25px;"> -->
-<div class="custom" align="center">
-<!-- <div align="center"> -->
   <!--  <div class="row"> -->
     {% for p in site.data.presenters %}
     {% if forloop.index<=4 %}
