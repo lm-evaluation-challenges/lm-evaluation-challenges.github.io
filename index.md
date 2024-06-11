@@ -29,8 +29,7 @@ In this tutorial, we aim to bring attendees up to speed on the state of language
 
 
 # Presenters
-<p align="center">
-<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
+<div align="center" class="container" style="margin-top: 25px;margin-bottom: 25px;">
   <div class="row">
     {% for p in site.data.presenters %}
     {% if forloop.index<=4 %}
@@ -48,7 +47,6 @@ In this tutorial, we aim to bring attendees up to speed on the state of language
     {% endfor %}
   </div>
 </div>
-</p>
 <hr>
 
 <!-- # Panelists
