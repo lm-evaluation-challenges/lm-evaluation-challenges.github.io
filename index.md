@@ -29,25 +29,23 @@ In this tutorial, we aim to bring attendees up to speed on the state of language
 
 
 # Presenters
-<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
+<div class="container" style="margin-top: 25px;margin-bottom: 25px;">
   <div class="row">
-    <center>
     {% for p in site.data.presenters %}
     {% if forloop.index<=4 %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
-    </center>
   </div>
-  <div class="row">
+<!--   <div class="row">
     {% for p in site.data.presenters %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% if forloop.index>4 and forloop.index<=7%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
-  </div>
+  </div> -->
 </div>
 <hr>
 
