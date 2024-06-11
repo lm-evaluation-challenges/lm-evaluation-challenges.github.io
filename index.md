@@ -21,9 +21,13 @@ title: Challenges in Language Model Evaluations
 
 <div style="text-align: justify;">
 NLP and Machine Learning rely on benchmarks and evaluation to accurately track progress in the field and assess the efficacy of new models and methodologies. For this reason, good evaluation practices and accurate reporting are crucial. 
+</div>
 <br>
+<div style="text-align: justify;">
 However, language models (LMs) not only inherit the challenges previously faced in benchmarking, but also introduce a slew of novel considerations which can make proper comparison across models difficult, misleading, or near-impossible. 
+</div>
 <br>
+<div style="text-align: justify;">
 In this tutorial, we aim to bring attendees up to speed on the state of language model evaluation, and highlight current challenges in evaluating language model performance through discussing the various methods of evaluation, tasks and benchmarks commonly associated with evaluating progress in language model research. We will then discuss how these common pitfalls can be addressed and what considerations should be taken to enhance future work. 
 </div>
 <hr>
