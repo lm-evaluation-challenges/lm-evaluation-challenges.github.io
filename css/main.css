@@ -47,11 +47,6 @@ hr.small {
   border-radius: 3px;
 }
 
-.custom-container {
-  display: flex;
-  justify-content: center;
-}
-
 .main-content {
   padding-top: 80px;
 }
@@ -440,7 +435,7 @@ footer .theme-by {
     width: 100%;
     text-align: center;
     margin-top: 0;
-    float: center;
+    float: left;
   }
 }
 /* --- Post and page headers --- */
