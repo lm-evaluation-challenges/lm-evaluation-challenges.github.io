@@ -32,7 +32,6 @@ In this tutorial, we aim to bring attendees up to speed on the state of language
 
 
 # Presenters
-<div class="custom-container">
 <div align="center" class="container" style="margin-top: 25px;margin-bottom: 25px;">
   <div class="row">
     {% for p in site.data.presenters %}
@@ -42,15 +41,14 @@ In this tutorial, we aim to bring attendees up to speed on the state of language
     {% endif %}
     {% endfor %}
   </div>
-  <div class="row">
+<!--   <div class="row">
     {% for p in site.data.presenters %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% if forloop.index>4 and forloop.index<=7%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
-  </div>
-</div>
+  </div> -->
 </div>
 <hr>
 
