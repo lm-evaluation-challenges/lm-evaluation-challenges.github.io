@@ -85,14 +85,14 @@ The tutorial will be held at 3:30-5:30pm GMT+2 on July 22nd. A preliminary outli
 **LM Evaluation Fundamentals**
 We will review the fundamentals of evaluating autoregressive LMs, covering the tools available to practitioners including: 
 - Measurements such as perplexity, loglikelihood-based multiple choice, and text generation.
-- Associated commonly-used metrics 
+- Note associated commonly-used evaluation metrics. 
 - A brief summary of the in-context learning (ICL) and prompting paradigm.
 
 **Challenges Resulting From LMs**
 We will then cover a number of challenges resulting from the Language Model side of LM evaluation--concerns that are novel or exacerbated by LMs.
-- Reproducibility challenges unique to LMs, including the importance of prompting, prompt engineering, and non-robustness to implementation details
-- Data contamination rendering evaluations invalid, skewed, or gameable
-- Drawing fair comparisons across methods where factors such as architecture, dataset, or compute may vary--which is often contextual and goal-dependent
+- Reproducibility challenges unique to LMs, including the importance of prompting, prompt engineering, and LMs' non-robustness to implementation details.
+- Data contamination rendering evaluations invalid, skewed, or gameable.
+- Drawing fair comparisons across methods where factors such as architecture, dataset, or compute may vary--which is often contextual and goal-dependent.
 - The challenges inherent in attempting to reliably score natural language outputs. 
 
 **Challenges Resulting From Benchmarks**
@@ -102,7 +102,8 @@ Next, we will discuss broader concerns and challenges faced in evaluation and be
 - Challenges in measurement validity, including for LMs in particular.
 - Improving the rigor of typical evaluation setups, such as by introducing statistical significance testing or, when possible, the use of multiple seeds (both of which are not common practice in LM research).
 
-**Addressing Pitfalls, and Where To Go From Here**
+**Addressing Pitfalls, and Where To Go From Here** 
+We will close with suggestions to mitigate the impact of the challenges we have discussed, and provide notes on directions for future study. 
 - We will highlight libraries commonly used to improve reproducibility and comparability of typical LM benchmarks, such as the [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness), [HELM](https://github.com/stanford-crfm/helm), and others.
 - Brief discussion of several novel research threads in this subfield, as well as further minimum best practices for improving evaluation rigor.
 
