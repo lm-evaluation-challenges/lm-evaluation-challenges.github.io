@@ -8,6 +8,7 @@ title: Challenges in Language Model Evaluations
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   <a target="_blank" href="https://icml.cc/virtual/2024/tutorial/35227"><strong>Video Recording</strong></a>
   <br>
+  <a target="_blank" href="https://github.com/lm-evaluation-challenges/lm-evaluation-challenges.github.io/blob/main/%5BMain%5D%20ICML%20Tutorial%202024%20-%20Challenges%20in%20LM%20Evaluation.pdf"><strong>Downloadable Slides</strong></a>
   <strong>July 22, 2024<br>3:30-5:30pm GMT+2</strong>
 </div>
 
@@ -88,14 +89,14 @@ We will review the fundamentals of evaluating autoregressive LMs, covering the t
 - Note associated commonly-used evaluation metrics. 
 - A brief summary of the in-context learning (ICL) and prompting paradigm.
 
-**Challenges Resulting From LMs**
+**LM-centric Challenges**
 We will then cover a number of challenges resulting from the Language Model side of LM evaluation--concerns that are novel or exacerbated by LMs.
 - Reproducibility challenges unique to LMs, including the importance of prompting, prompt engineering, and LMs' non-robustness to implementation details.
 - Data contamination rendering evaluations invalid, skewed, or gameable.
 - Drawing fair comparisons across methods where factors such as architecture, dataset, or compute may vary--which is often contextual and goal-dependent.
 - The challenges inherent in attempting to reliably score natural language outputs. 
 
-**Challenges Resulting From Benchmarks**
+**Benchmark-Centric Challenges**
 Next, we will discuss broader concerns and challenges faced in evaluation and benchmarking as a whole, which apply to LM evaluation as well.
 - What qualities or tasks do practitioners wish to evaluate in LMs?
 - The typical life cycle of a benchmark dataset, and the [steering effects of popular benchmarks on the field](https://arxiv.org/abs/2107.07002)
@@ -109,7 +110,9 @@ We will close with suggestions to mitigate the impact of the challenges we have 
 
 # Materials
 
-Slides will be posted after the tutorial, and a larger number of related references will also be uploaded closer to the tutorial.
+Slides can be found at [this link](https://github.com/lm-evaluation-challenges/lm-evaluation-challenges.github.io/blob/main/%5BMain%5D%20ICML%20Tutorial%202024%20-%20Challenges%20in%20LM%20Evaluation.pdf)! For those seeking a larger list of references, all slides which use figures from or are based centrally around the conclusions from a given work are linked at the bottom of each slide.
+
+For ICML in-person and virtual attendees, the video recording may be watched on the ICML 2024 website.
 
 ## Relevant Papers
 
