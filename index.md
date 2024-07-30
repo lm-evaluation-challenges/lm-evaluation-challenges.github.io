@@ -9,6 +9,7 @@ title: Challenges in Language Model Evaluations
   <a target="_blank" href="https://icml.cc/virtual/2024/tutorial/35227"><strong>Video Recording</strong></a>
   <br>
   <a target="_blank" href="https://github.com/lm-evaluation-challenges/lm-evaluation-challenges.github.io/blob/main/%5BMain%5D%20ICML%20Tutorial%202024%20-%20Challenges%20in%20LM%20Evaluation.pdf"><strong>Downloadable Slides</strong></a>
+  <br>
   <strong>July 22, 2024<br>3:30-5:30pm GMT+2</strong>
 </div>
 
